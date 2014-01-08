@@ -13,3 +13,8 @@ Provides numerous features for [Android development](http://developer.android.co
 
 For more information, visit the wiki page:  
 <https://wiki.jenkins-ci.org/display/JENKINS/Android+Emulator+Plugin>
+
+
+To build the Project run the following command(jar will be created in the target folder):
+> mvn package
+
